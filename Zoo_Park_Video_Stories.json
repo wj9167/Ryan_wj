@@ -34,26 +34,26 @@
       {
        "id": 1,
        "title": "Story Vi",
-       "image": "",
-        "link": ""
+       "image": "null",
+        "link": "null"
      },
     {
        "id": 2,
        "title": "BLife Story",
-       "image": "",
-       "link": ""
+       "image": "null",
+       "link": "null"
     },
      {
        "id": 3,
        "title": "bqThanh",
-       "image": "",
-       "link": ""
+       "image": "null",
+       "link": "null"
     },
      {
        "id": 4,
        "title": "Story Vids",
-       "image": "",
-       "link": ""
+       "image": "null",
+       "link": "null"
     }
    ]
 }
