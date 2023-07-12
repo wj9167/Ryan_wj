@@ -34,26 +34,26 @@
       {
        "id": 1,
        "title": "Story Vi",
-       "image": "https://play-lh.googleusercontent.com/vQGpXD6ayRxZ81kdXROtGKaD3RhHdZKKSIBpRaXwAMOA3TA7Q3IhIlBzjcAyHeN0AeA=w24xx",
-        "link": "https://play.google.com/store/apps/details?id=com.origine.milxx"
+       "image": "",
+        "link": ""
      },
     {
        "id": 2,
        "title": "BLife Story",
-       "image": "https://play-lh.googleusercontent.com/aqN5R5wPJWt5McYMdcOl5a1jC2dXSSGUSIpqX3bNkPdkoiQkXaqM27_-FEWLzhBTKH8=w240-hxx",
-       "link": "https://play.google.com/store/apps/details?id=com.origine.Brookhavenxx"
+       "image": "",
+       "link": ""
     },
      {
        "id": 3,
        "title": "bqThanh",
-       "image": "https://play-lh.googleusercontent.com/Re5IPGMSK4S8PfNTM6axplayze6klY40-TAozjYejFygnhF8tOV7Vp7WeE-uRgyQhug=w240-h480xx",
-       "link": "https://play.google.com/store/apps/details?id=com.origine.bqthanhxx"
+       "image": "",
+       "link": ""
     },
      {
        "id": 4,
        "title": "Story Vids",
-       "image": "https://play-lh.googleusercontent.com/d_mD0Us4VT04Elm01A74ppsYr2bzFgJjZpHq1dGxjzfanIEpYm62akGkOHIrDId8sxA=w240-h480xx",
-       "link": "https://play.google.com/store/apps/details?id=com.origine.tocabocastoryxx"
+       "image": "",
+       "link": ""
     }
    ]
 }
