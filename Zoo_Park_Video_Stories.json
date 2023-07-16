@@ -1,10 +1,10 @@
  { "Ads": [
     {
-      "api_key_youtube":"AIzaSyC7EWF4JD3Sn9ALcYmMNoGdA7mzN2zx1uk",
-      "api_key_youtube2":"AIzaSyBTCjftrH2TsgAT6-N_pronpt7QWVEneL4",
-      "api_key_youtube3":"AIzaSyAINjF4qOKzF1wmWDf9u94YviXB0Q8FYVU",
+      "api_key_youtube":"AIzaSyB_oyoZQrkapGen-YtYEucXa7TKeK6VPc0",
+      "api_key_youtube2":"AIzaSyB_oyoZQrkapGen-YtYEucXa7TKeK6VPc0",
+      "api_key_youtube3":"AIzaSyB_oyoZQrkapGen-YtYEucXa7TKeK6VPc0",
       "api_key_youtube4":"AIzaSyBNnE-bR11QwM7HK6J9O3xjzV_wU2H7040",
-      "api_key_youtube5":"AIzaSyDnDyXH8wNjzZtzmxUcMaZT6I7zTTXh0fA",
+      "api_key_youtube5":"AIzaSyB_oyoZQrkapGen-YtYEucXa7TKeK6VPc0",
       "playlist_id":"PLYBEppdUvx7lBAFy1g8Eu37WmfOkQOfYX",
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
