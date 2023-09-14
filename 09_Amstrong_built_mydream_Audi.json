@@ -1,0 +1,59 @@
+ { "Ads": [
+    {
+      "api_key_youtube":"AIzaSyAX2lRDVbCQtFboflaOsbqhktTpETNYyrw",
+      "api_key_youtube2":"AIzaSyApQ1axxAYDL-Fl6DWw4o7BHcq0JRDL-f0",
+      "api_key_youtube3":"AIzaSyAbOQeFMbXQ7zF0bVjRCy6x3VQIbwJACdU",
+      "api_key_youtube4":"AIzaSyBgwU9goykBU0wGSuaMHkH42DI--NKPu-w",
+      "api_key_youtube5":"AIzaSyA_LRk0QLnoAKrV9oKOVI-PIAKHFyXf47o",
+      "playlist_id":"PLYBEppdUvx7ldSYftCOMyJJ6WHmln03cs",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"STARTAPP",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-4292942979500773/364236560xx1",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78x",
+      "backup_ads_intertitial":"518cd97722c60b52x",
+      "open_ads_admob":"ca-app-pub-4292942979500773/338634259xx1",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 10,
+      "initialize_sdk":"107355779x",
+      "initialize_sdk_backup_ads":"12345678",
+      "high_paying_keyword_1": "auto accident lawyer,truck accident lawyer,family law solicitors",
+      "high_paying_keyword_2": "google finance portfolio,reddit financial independence,discover financial services stock",
+      "high_paying_keyword_3": "workers comp lawyer,criminal attorney,personal injury lawyer",
+      "high_paying_keyword_4": "tax attorney,lemon law attorney,dui attorney",
+      "high_paying_keyword_5": "classic car insurance,best life insurance,medicare advantage plans",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+      {
+       "id": 1,
+       "title": "Story Vi",
+       "image": "https://play-lh.googleusercontent.com/vQGpXD6ayRxZ81kdXROtGKaD3RhHdZKKSIBpRaXwAMOA3TA7Q3IhIlBzjcAyHeN0AeA=w24xx",
+        "link": "https://play.google.com/store/apps/details?id=com.origine.milxx"
+     },
+    {
+       "id": 2,
+       "title": "BLife Story",
+       "image": "https://play-lh.googleusercontent.com/aqN5R5wPJWt5McYMdcOl5a1jC2dXSSGUSIpqX3bNkPdkoiQkXaqM27_-FEWLzhBTKH8=w240-hxx",
+       "link": "https://play.google.com/store/apps/details?id=com.origine.Brookhavenxx"
+    },
+     {
+       "id": 3,
+       "title": "bqThanh",
+       "image": "https://play-lh.googleusercontent.com/Re5IPGMSK4S8PfNTM6axplayze6klY40-TAozjYejFygnhF8tOV7Vp7WeE-uRgyQhug=w240-h480xx",
+       "link": "https://play.google.com/store/apps/details?id=com.origine.bqthanhxx"
+    },
+     {
+       "id": 4,
+       "title": "Story Vids",
+       "image": "https://play-lh.googleusercontent.com/d_mD0Us4VT04Elm01A74ppsYr2bzFgJjZpHq1dGxjzfanIEpYm62akGkOHIrDId8sxA=w240-h480xx",
+       "link": "https://play.google.com/store/apps/details?id=com.origine.tocabocastoryxx"
+    }
+   ]
+}
