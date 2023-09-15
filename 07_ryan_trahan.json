@@ -6,7 +6,7 @@
       "api_key_youtube4":"AIzaSyDRr0455ny-va0H6hoBuqQY7P0rQgih6aI",
       "api_key_youtube5":"AIzaSyAJ3dDyM0rimLg_70YP53txvzMbQhMTfrQ",
       "playlist_id":"PLYBEppdUvx7nCAyi6KllgjGvVp6ofplMo",
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "FACEBOOK",
       "select_backup_ads":"STARTAPP",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
