@@ -1,11 +1,11 @@
  { "Ads": [
     {
-      "api_key_youtube":"",
-      "api_key_youtube2":"",
-      "api_key_youtube3":"",
-      "api_key_youtube4":"",
-      "api_key_youtube5":"",
-      "playlist_id":"",
+      "api_key_youtube":"AIzaSyDYa5veuEaQAuAt4ZvfFRhVeRqOty-wCuo",
+      "api_key_youtube2":"AIzaSyCXm46it-yr93WpdVWuJi6rz8MrPTFE4p4",
+      "api_key_youtube3":"AIzaSyBAdPj4K6u-hd5K0qIfI2h1ElTFqx3rsBM",
+      "api_key_youtube4":"AIzaSyBsTlihDB8X113IVgGLSOkZqiHtPhq4QeE",
+      "api_key_youtube5":"AIzaSyCeUVMA2l-ihAE9fxRfTj_ioY-jv5mDaME",
+      "playlist_id":"PLYBEppdUvx7nwUt-_bW1SIsq97bPKRQEn",
       "select_main_ads": "ADMOB",
       "select_backup_ads":"STARTAPP",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
